@@ -96,8 +96,8 @@ const Services = () => {
       <HeroSection
         backgroundImage={heroServices}
         subtitle="What We Offer"
-        title="Our Services"
-        description="Comprehensive solutions designed to accelerate your business growth and drive digital excellence."
+        title="From Project Chaos to Predictable Success"
+        description="Empowering Tech Teams to Deliver Better, Faster, and Smarter — the Vimico Way"
         height="small"
         overlay="gradient"
       />
