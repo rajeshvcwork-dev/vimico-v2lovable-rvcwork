@@ -69,8 +69,8 @@ const Index = () => {
         />
         <div className="absolute inset-0 bg-gradient-to-r from-foreground/90 via-foreground/70 to-foreground/50" />
         
-        <div className="relative z-10 container mx-auto px-6">
-          <div className="max-w-3xl">
+        <div className="relative z-10 container mx-auto px-6 text-center">
+          <div className="max-w-3xl mx-auto">
             <span className="inline-block px-4 py-2 mb-6 text-sm font-medium text-primary bg-primary/20 rounded-full animate-fade-up backdrop-blur-sm">
               Welcome to Vimico
             </span>
