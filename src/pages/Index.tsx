@@ -72,7 +72,7 @@ const Index = () => {
         <div className="relative z-10 container mx-auto px-6 text-center">
           <div className="max-w-3xl mx-auto">
             <span className="inline-block px-4 py-2 mb-6 text-sm font-medium text-primary bg-primary/20 rounded-full animate-fade-up backdrop-blur-sm">
-              Welcome to Vimico
+              Welcome to VIMICO
             </span>
             <h1 className="text-5xl md:text-7xl font-display font-bold text-background mb-6 animate-fade-up-delay-1 leading-tight">
               Your Path to{" "}
