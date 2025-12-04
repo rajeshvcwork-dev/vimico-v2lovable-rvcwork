@@ -21,8 +21,8 @@ const services = [
   },
   {
     icon: TrendingUp,
-    title: "Digital Transformation",
-    description: "Modernize your operations with cutting-edge technology solutions.",
+    title: "Agile Transformation",
+    description: "Modernize and Empower your delivery team using Agile Methodologies.",
   },
   {
     icon: Target,
@@ -52,10 +52,10 @@ const featuredProjects = [
 ];
 
 const stats = [
-  { value: "150+", label: "Projects Completed" },
+  { value: "27+", label: "Projects Completed" },
   { value: "98%", label: "Client Satisfaction" },
-  { value: "50+", label: "Team Experts" },
-  { value: "10+", label: "Years Experience" },
+  { value: "20+", label: "Team Experts" },
+  { value: "2+", label: "Decades Experience" },
 ];
 
 const Index = () => {
