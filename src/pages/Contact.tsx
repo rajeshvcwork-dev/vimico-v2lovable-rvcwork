@@ -14,7 +14,7 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Whatsapp",
-    content: "https://wa.me/918297753746",
+    content: "+91 82977-53746",
     description: "Mon-Fri from 9am to 6pm",
   },
   {
