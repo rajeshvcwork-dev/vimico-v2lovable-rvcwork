@@ -13,15 +13,15 @@ const contactInfo = [
   },
   {
     icon: Phone,
-    title: "Call Us",
-    content: "+1 (555) 123-4567",
+    title: "Whatsapp",
+    content: "https://wa.me/918297753746",
     description: "Mon-Fri from 9am to 6pm",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    content: "123 Business Ave, Suite 100",
-    description: "New York, NY 10001",
+    content: "Vimico Office, Cybertowers, 5th floor-5011",
+    description: "Hyderabad, Telangana" "INDIA-500081",
   },
   {
     icon: Clock,
@@ -139,11 +139,11 @@ const Contact = () => {
             <div className="text-center">
               <MapPin className="w-16 h-16 text-primary mx-auto mb-4" />
               <h3 className="text-xl font-display font-semibold text-foreground mb-2">
-                Visit Our Office
+                Visit Us
               </h3>
               <p className="text-muted-foreground">
-                123 Business Ave, Suite 100<br />
-                New York, NY 10001
+                Vimico Office, Cybergate, 5th floor-5011<br />
+                Hyderabad, Telangana, INDIA-500081
               </p>
             </div>
           </div>
