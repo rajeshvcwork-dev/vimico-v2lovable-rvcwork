@@ -14,14 +14,14 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Whatsapp",
-    content: "+91 8297753746",
+    content: "https://wa.me/918297753746",
     description: "Mon-Fri from 9am to 6pm",
   },
   {
     icon: MapPin,
     title: "Visit Us",
     content: "Vimico Office, Cybertowers, 5th floor-5011",
-    description: "Hyderabad, Telangana" "INDIA-500081",
+    description: "Hyderabad, Telangana, INDIA-500081",
   },
   {
     icon: Clock,
