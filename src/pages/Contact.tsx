@@ -8,8 +8,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email Us",
-    content: "hello@vimico.com",
-    description: "We'll respond within 24 hours",
+    content: "care@vimico.in",
+    description: "We are here to serve and we'll respond within 24 hours",
   },
   {
     icon: Phone,
