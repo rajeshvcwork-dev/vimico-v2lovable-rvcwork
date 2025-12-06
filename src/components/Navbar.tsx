@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { Menu, X } from "lucide-react";
+import vimicoLogo from "@/assets/vimico-logo.png";
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -20,7 +21,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-2">
-            <span className="text-2xl font-display font-bold text-gradient">Vimico</span>
+            <img src={vimicoLogo} alt="Vimico - You & I Co-operate" className="h-10 w-auto" />
           </Link>
 
           {/* Desktop Navigation */}
