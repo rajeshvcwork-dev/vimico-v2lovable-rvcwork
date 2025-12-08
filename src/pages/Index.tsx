@@ -85,10 +85,8 @@ const Index = () => {
               <Link to="/services" className="btn-primary">
                 Explore Services
               </Link>
-              <Link
-                to="/portfolio"
-                className="px-8 py-4 rounded-full border-2 border-background/30 text-background font-medium hover:bg-background/10 transition-all"
-              >
+              <Link to="/portfolio">
+              </Link>
                 View Portfolio
               </Link>
             </div>
