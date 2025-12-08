@@ -88,7 +88,6 @@ const Index = () => {
               <Link 
                 to="/portfolio" className="px-8 py-4 rounded-full border-2 border-background/30 text-background font-medium hover:bg-background/10 transition-all"
               >
-              </Link>
                 View Portfolio
               </Link>
             </div>
